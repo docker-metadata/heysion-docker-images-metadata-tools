@@ -1,0 +1,13 @@
+name: redis
+gitrepo: https://github.com/docker-metadata/redis.git
+branch:
+- v5
+v5:
+- {
+   v5.0.2: 8c38ca8f4518400e22d0cf8c5f7daca8f14191d8,
+   desc: rc v5.0.2
+}
+
+
+
+
